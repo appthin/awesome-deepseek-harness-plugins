@@ -1,0 +1,12 @@
+{
+  "$schema": "../schema/plugin.schema.json",
+  "id": "appthin/dsh-skills-manager-plus",
+  "name": "dsh-skills-manager-plus",
+  "repository": "https://github.com/appthin/dsh-skills-manager-plus",
+  "category": "skill",
+  "description": {
+    "en": "Adds a Skills & Commands page to Settings for managing the skill files under the harness's skill roots (global and per project) and the saved slash commands under $DSH_HOME/commands: list, enable/disable, edit, delete, add, and install skills from a zip, tar or tar.gz archive.",
+    "zh": "在 DSH 设置中加入「技能与命令」页面：管理技能根目录（全局与各项目）下的技能文件以及 $DSH_HOME/commands 下已保存的命令，支持查看、启用/停用、编辑、删除、添加，并可从 zip、tar 或 tar.gz 压缩包安装技能。"
+  },
+  "added": "2026-10-20"
+}
