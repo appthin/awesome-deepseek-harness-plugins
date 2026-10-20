@@ -1,0 +1,12 @@
+{
+  "$schema": "../schema/plugin.schema.json",
+  "id": "appthin/dsh-rea-agents",
+  "name": "dsh-rea-agents",
+  "repository": "https://github.com/appthin/dsh-rea-agents",
+  "category": "tools",
+  "description": {
+    "en": "Pins REA (rea-agents), a reverse-engineering MCP server, to one exact version inside the DSH profile and starts its MCP server from that copy. The version moves only when Update is pressed on the plugin card, which shows the installed and the registry version side by side.",
+    "zh": "把逆向分析 MCP 服务 REA（rea-agents）固定到当前配置档中的一个确切版本，并从该副本启动其 MCP 服务。只有按下插件卡片上的「更新」时版本才会推进，卡片同时展示已安装版本与仓库最新版本。"
+  },
+  "added": "2026-10-20"
+}
