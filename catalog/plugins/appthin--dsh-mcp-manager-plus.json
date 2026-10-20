@@ -1,0 +1,12 @@
+{
+  "$schema": "../schema/plugin.schema.json",
+  "id": "appthin/dsh-mcp-manager-plus",
+  "name": "dsh-mcp-manager-plus",
+  "repository": "https://github.com/appthin/dsh-mcp-manager-plus",
+  "category": "ui",
+  "description": {
+    "en": "Adds an MCP management page to the DSH settings sidebar: list, enable/disable, restart and delete MCP servers, edit one in form or JSON mode, expand a server to see the tools it registers, and paste-import an MCP configuration from 14 tools including Claude Code, Cursor, Codex and VS Code.",
+    "zh": "在 DeepSeek Harness 设置侧边栏新增「MCP 管理」页面：列出、启停、重启与删除 MCP 服务器，用表单或 JSON 模式编辑，展开可查看服务器注册的工具，并可粘贴导入 Claude Code、Cursor、Codex、VS Code 等 14 种工具的 MCP 配置。"
+  },
+  "added": "2026-10-20"
+}
